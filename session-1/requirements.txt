@@ -1,0 +1,10 @@
+jupyterlab
+ipykernel
+ipywidgets
+requests
+beautifulsoup4
+pandas
+dash
+plotly
+numpy
+streamlit
