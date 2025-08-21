@@ -39,30 +39,40 @@ A comprehensive web-based stock analysis application built with **Streamlit**, *
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.8 or higher
-- pip or uv package manager
+- Python 3.8.1 or higher
+- uv package manager (recommended) or pip
 
-### Setup
+### Setup with UV (Recommended)
 1. **Clone or download** this repository
 2. **Navigate** to the project directory:
    ```bash
    cd session-1_from_start
    ```
 
-3. **Install dependencies** using pip:
+3. **Install core dependencies** using uv:
    ```bash
-   pip install -r requirements.txt
+   uv pip install streamlit yfinance pandas plotly numpy
    ```
    
-   Or using uv (recommended):
+   Or install all dependencies including dev tools:
    ```bash
    uv pip install -r requirements.txt
    ```
 
+### Setup with pip
+```bash
+pip install streamlit yfinance pandas plotly numpy
+```
+
 ## 🎮 Usage
 
 ### Running the Application
-1. **Start the Streamlit app**:
+1. **Start the Streamlit app** with uv:
+   ```bash
+   uv run streamlit run main.py
+   ```
+   
+   Or with pip:
    ```bash
    streamlit run main.py
    ```
@@ -136,6 +146,37 @@ def create_price_chart(df, ticker):
 | `pandas` | ≥2.0.0 | Data manipulation and analysis |
 | `plotly` | ≥5.15.0 | Interactive plotting library |
 | `numpy` | ≥1.24.0 | Numerical computing |
+
+## 🚨 Troubleshooting
+
+### Common Issues
+
+#### Python Version Compatibility
+If you encounter dependency resolution errors, ensure you're using Python 3.8.1 or higher:
+```bash
+python --version
+```
+
+#### UV Dependency Issues
+If `uv pip install -r requirements.txt` fails, install core dependencies only:
+```bash
+uv pip install streamlit yfinance pandas plotly numpy
+```
+
+#### Streamlit Not Found
+If `streamlit` command is not found, ensure it's installed:
+```bash
+uv pip install streamlit
+```
+
+### Alternative Installation Methods
+```bash
+# Using pip directly
+pip install streamlit yfinance pandas plotly numpy
+
+# Using conda
+conda install -c conda-forge streamlit yfinance pandas plotly numpy
+```
 
 ## 🌟 Key Benefits
 

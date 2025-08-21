@@ -1,7 +1,3 @@
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
 [project]
 name = "stock-analysis-dashboard"
 version = "1.0.0"
@@ -13,21 +9,6 @@ authors = [
     {name = "AI Builders Bootcamp", email = "your-email@example.com"}
 ]
 keywords = ["stock", "analysis", "finance", "dashboard", "streamlit", "yfinance", "plotly"]
-classifiers = [
-    "Development Status :: 4 - Beta",
-    "Intended Audience :: Financial and Insurance Industry",
-    "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
-    "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.8",
-    "Programming Language :: Python :: 3.9",
-    "Programming Language :: Python :: 3.10",
-    "Programming Language :: Python :: 3.11",
-    "Programming Language :: Python :: 3.12",
-    "Topic :: Office/Business :: Financial :: Investment",
-    "Topic :: Scientific/Engineering :: Information Analysis",
-    "Topic :: Software Development :: Libraries :: Python Modules",
-]
 
 dependencies = [
     "streamlit>=1.28.0",
@@ -36,36 +17,3 @@ dependencies = [
     "plotly>=5.15.0",
     "numpy>=1.24.0",
 ]
-
-[project.optional-dependencies]
-dev = [
-    "pytest>=7.0.0",
-    "black>=23.0.0",
-    "flake8>=6.0.0",
-    "mypy>=1.0.0",
-]
-
-[project.urls]
-Homepage = "https://github.com/yourusername/stock-analysis-dashboard"
-Repository = "https://github.com/yourusername/stock-analysis-dashboard.git"
-Documentation = "https://github.com/yourusername/stock-analysis-dashboard#readme"
-Issues = "https://github.com/yourusername/stock-analysis-dashboard/issues"
-
-[project.scripts]
-stock-dashboard = "main:main"
-
-[tool.black]
-line-length = 88
-target-version = ['py38', 'py39', 'py310', 'py311', 'py312']
-
-[tool.mypy]
-python_version = "3.8"
-warn_return_any = true
-warn_unused_configs = true
-disallow_untyped_defs = true
-
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-python_files = ["test_*.py"]
-python_classes = ["Test*"]
-python_functions = ["test_*"]
