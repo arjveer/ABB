@@ -1,9 +1,9 @@
-# Session 1: Software 1.0, Coding with AI
+# Session 2: Software 3.0, LLMs, Prompt Engineering
 
 Links:
-- [Example 1: Scraping AI Job Board with Python](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/blob/main/session-1/example_1-scrape_job_board.ipynb)
-- [Example 2: AI Job Dashboard with Streamlit (Vibe Coded)](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/blob/main/session-1/example_2-job_dashboard.py)
-- [Live Coding Examples](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/tree/main/session-1/live-coding-examples)
+- [Example 1: Research paper summarizer](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/blob/main/session-3/example_1-paper_summarizer.ipynb)
+- [Example 2: Text classifier](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/blob/main/session-3/example_2-text-classifier.ipynb)
+- [Example 3: Local visual QA with LLaMA 3.2 Vision](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/blob/main/session-3/example_3-local_visual_QA.ipynb)
 
 ## How to run the examples
 
@@ -30,15 +30,15 @@ Links:
     ```
 2. Navigate to downloaded folder and create new venv
     ```
-    python -m venv s1-env
+    python -m venv s2-env
     ```
 3. Activate venv
     ```
     # mac/linux
-    source s1-env/bin/activate
+    source s2-env/bin/activate
 
     # windows
-    .\s1-env\Scripts\activate.bat
+    .\s2-env\Scripts\activate.bat
     ```
 4. Install dependencies
     ```

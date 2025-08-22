@@ -1,0 +1,624 @@
+,Job Title,Job Description,Salary Range:
+0,AI Agent Engineer,"Role Overview
+We are seeking a highly skilled
+AI Agent Engineer
+to design, build, and deploy advanced AI agents that leverage cutting-edge large language models (LLMs) to solve complex real-world problems. These AI agents are intricate software systems that simulate human-like reasoning, decision-making, and creativity to tackle business challenges autonomously.
+In this pivotal role, you will drive the development of intelligent agents from concept through production, integrating them into scalable applications and ensuring they operate reliably at scale. You'll be instrumental in building the core intelligence of our products, working across the entire AI/ML lifecycle in a collaborative, high-trust environment.
+This role is fully remote and open to candidates globally
+, allowing you to contribute from anywhere while collaborating with a diverse, distributed team.
+Key Responsibilities
+Agent Development & Architecture
+Design, develop, and maintain intelligent AI agent systems that exhibit autonomous decision-making and action-taking capabilities
+Prototype and implement LLM-based agent solutions from concept to production, ensuring meaningful real-world outcomes
+Orchestrate multi-step workflows and design multi-agent architectures using frameworks like LangChain, AutoGPT, or Semantic Kernel
+Integration & Infrastructure
+Integrate external APIs and tools to enable agents to interact with various systems, orchestrating end-to-end task automation beyond simple question-answering
+Build and optimize software infrastructure and data pipelines for AI/ML models, ensuring scalability and efficiency
+Implement and fine-tune Large Language Models (LLMs) and other generative AI techniques for agentic applications
+Knowledge Management & Context
+Manage contextual knowledge bases by implementing and maintaining vector databases or retrieval systems (Pinecone, FAISS, etc.)
+Develop techniques for grounding generative models with external knowledge sources using RAG, Knowledge Graphs, and semantic retrieval
+Performance & Production
+Deploy AI agent systems into high-throughput, low-latency production environments
+Take ownership of performance, scalability, and reliability through rigorous testing, monitoring, and optimization
+Monitor and enhance system performance, identifying bottlenecks and implementing updates
+Research & Innovation
+Conduct continuous improvement and R&D by experimenting with the latest AI models, tools, and frameworks
+Stay up-to-date with emerging developments in the AI/ML space and agentic techniques
+Ensure ethical development and deployment of AI agents, addressing potential biases and security implications
+Collaboration
+Work closely with software engineers, product managers, design teams, and researchers to integrate AI agents into products and workflows
+Collaborate cross-functionally to deliver robust AI solutions with seamless user experiences
+Contribute to a culture of rapid innovation and ethical AI development
+Required Qualifications
+Education & Experience
+Bachelor’s or master’s degree in computer science, Artificial Intelligence, Machine Learning, or related technical field (or equivalent practical experience)
+5+ years of experience in software development
+1-2+ years of experience working with Large Language Models (LLMs) in production environments
+1-2+ years of experience building and deploying AI agent systems or similar autonomous systems
+1-2+ years of experience developing and deploying machine learning models in production
+Technical Skills
+Programming:
+Strong proficiency in
+Python
+and familiarity with software engineering best practices
+AI/ML Libraries:
+Experience with TensorFlow, PyTorch, and other relevant AI/ML frameworks
+LLM Expertise:
+Significant expertise in prompt engineering, fine-tuning, and working with AI/LLM APIs (OpenAI, Anthropic Claude, etc.)
+Agent Frameworks:
+Proficiency with AI agent development frameworks (LangChain, LlamaIndex, AutoGPT, Semantic Kernel)
+Vector Databases:
+Familiarity with vector databases and retrieval-augmented generation techniques
+Software Architecture:
+Solid understanding of software design patterns and ability to write clean, maintainable, scalable code
+MLOps:
+Familiarity with MLOps principles and tools for model deployment and monitoring
+Soft Skills
+Strong problem-solving, analytical, and critical thinking skills
+Excellent communication and collaboration abilities with a proactive approach to teamwork
+Demonstrated understanding of ethical AI development, including bias identification and mitigation
+Continuous learning mindset and adaptability to a fast-paced, evolving startup environment
+Preferred Qualifications
+Advanced Technical Experience
+Experience deploying AI solutions on cloud infrastructure (AWS, GCP, Azure)
+Familiarity with containerization and MLOps tools (Docker, Kubernetes)
+Knowledge of reinforcement learning or advanced multi-agent system design
+Experience with techniques for fine-tuning or aligning LLMs
+Experience deploying AI models at scale in high-throughput, low-latency environments
+Portfolio & Education
+Portfolio of AI projects or notable open-source contributions (active GitHub projects highly valued)
+Master's or Ph.D. in Machine Learning, Computer Science, or related field
+What We Offer
+Compensation & Benefits
+Competitive salary and significant equity compensation, aligning your success with ours
+Comprehensive health, dental, and vision insurance
+Generous parental leave and flexible paid time off
+Dedicated budget for continuous learning, including courses and conference passes
+Work Environment
+Opportunity to work on cutting-edge AI agent technology and solve impactful, novel problems
+A passionate, diverse, high-trust, and collaborative team culture
+Flexible work arrangements with full remote options available
+Fast-paced, innovative environment at the forefront of AI technology
+Growth & Impact
+Work at the intersection of cutting-edge AI research and practical business applications
+Contribute to defining the future of autonomous AI systems
+Opportunity to drive significant operational efficiency and create novel value through AI innovation",
+1,"Full-Time AI Developer – Stealth SaaS Project (AI-First, High Growth)","We’re building a cutting-edge B2B SaaS platform that leverages AI agents, real-time data aggregation, and multi-source intelligence to surface high-value business insights. We’re looking for a self-driven full stack developer who can help us architect, build, and iterate on our core MVP—someone who thrives in early-stage, fast-moving environments and wants to own major parts of the product.
+What You’ll Be Working On:
+- Designing and implementing scalable back-end systems (Node.js, Python preferred)
+- Integrating 3rd party APIs (Google Trends, Reddit, Product Hunt, SEO tools, etc.)
+- Building and connecting LLM agents and vector databases (e.g. Pinecone, Weaviate, Qdrant)
+- Front-end UI/UX development using React, Next.js or similar
+- Creating modular pipelines to fetch, normalize, vectorize, and tag external data
+- Prompt engineering and LLM workflows for summarization, scoring, and decision-making
+- Collaborating with founder(s) and internal product lead on technical scope, velocity, and features
+What We’re Looking For:
+- 3+ years full stack experience (front + back end)
+- Strong experience working with LLMs, AI agent frameworks, LangChain / LlamaIndex, etc.
+- Experience with structured data workflows (ETL, pipelines, API normalization)
+- Familiar with vector DBs and embeddings-based search
+- Strong understanding of prompt engineering and prompt chaining logic
+- Comfortable building clean, simple UI with dynamic query visualizations
+-Growth mindset and high velocity—willing to move fast and make decisions
+Nice to Haves:
+- Background in scraping/public data ingestion
+- Experience building research tools or analytics dashboards
+- Familiarity with SaaS platform security and user access layers
+- Prior work with GPT agents and autonomous decision trees
+Structure:
+- Initial paid trial contract (2–4 weeks) to build and test core features
+- Full-time contract or long-term equity + comp role depending on fit
+- Fully remote, async-first, rapid iteration environment
+To Apply / Prepare for the Interview, please fill out this form:
+https://forms.monday.com/forms/97dd12b110aa255475c4acd356a4c739?r=apse2
+Be ready to discuss previous projects where you connected APIs, built LLM workflows, or used AI for decision-making
+No NDA or product details will be shared before the call—only technical scope
+No agencies. No freelancers. Serious candidates only.","$70,000 - $250,001"
+2,Full-Time AI Engineer for Long-Term Role in Self-Funded Company,"I'm the founder of a successful, self-funded company that's already automated several key business components, with plans to expand those automations further. In parallel, I'm building a SaaS product with a team of 8 full-stack developers (including a CTO) and a dedicated design team. We're AI-first, shipping features rapidly and iterating on user feedback to drive real revenue.
+We're seeking an AI engineer who's extremely passionate about the field – someone who geeks out over emerging models, agents, and architectures – to join full-time and exclusively on our projects. This is a long-term commitment where you'll report directly to me and focus on automations for my core business, standalone AI products, micro-SaaS tools, and enterprise-level solutions. No side gigs; we're building a dedicated role with potential to help manage the SaaS company as it evolves (including opportunities to step in as we refresh parts of the team).
+What You'll Do:
+Develop and deploy AI-driven features from concept to production, with a focus on both backend AI logic and front-end integrations.
+Tackle challenges in areas like model fine-tuning, agent workflows, scalable integrations, and user-facing interfaces.
+Contribute to roadmaps, experiment with cutting-edge tech, and help shape monetization strategies like tiered subscriptions.
+Requirements:
+3+ years in AI engineering (Python, PyTorch/TensorFlow, LLMs, agents).
+Experience shipping AI products in a team environment; strong front-end development skills, including UI/UX design capabilities.
+US-based preferred for optimal time zone overlap (I'm based in Dubai but currently in Miami for the next 60 days).
+Remote OK. Competitive package: $140k-$200k base, full benefits, flexible PTO.
+Bonus: Familiarity with tools like LangChain, RAG, or domain-specific AI applications.
+If you're committed and excited to build impactful AI, send your resume, GitHub/portfolio, and a note on why this role appeals to you to
+the form linked below.
+Be prepared for a Google Meet interview where we'll discuss your experience and fit. Serious inquiries only; no agencies or freelancers.","$100,000 - $200,000"
+3,Online Data Research,"Job Description
+Looking for a freelance opportunity where you can make an impact on technology from the comfort of your home? If you are dynamic, tech-savvy, and always online to learn more, this part-time flexible project is the perfect fit for you!
+A Day in the Life of a Personalized Internet Assessor:
+In this role, you’ll be analyzing and providing feedback on texts, pages, images, and other types of information for top search engines, using an online tool
+Through reviewing and rating search results for relevance and quality, you’ll be helping to improve the overall user experience for millions of search engine users, including yourself.
+Join our team today and start putting your skills to work for one of the world's leading search engines.
+The estimated hourly earnings for this role are 14 USD per hour.
+TELUS Digital AI Community
+Our global AI Community is a vibrant network of 1 million+ contributors from diverse backgrounds who help our customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and make an impact supporting the machine learning models of some of the world’s largest brands.
+Qualification path
+No previous professional experience is required to apply to this role, however, working on this project will require you to pass the basic requirements and go through a standard assessment process. This is a part-time long-term project and your work will be subject to our standard quality assurance checks during the term of this agreement.
+Basic Requirements
+Working as a freelancer with excellent communication skills in English
+Being a resident in the United States for the last 3 consecutive years and having familiarity with current and historical business, media, sport, news, social media, and cultural affairs in the US.
+Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content
+Daily access to a broadband internet connection, a smartphone (Android 5.0, iOS 14 or higher), and a personal computer to work on.
+Assessment
+In order to be hired into the program, you’ll take a language assessment and an open book qualification exam that will determine your suitability for the position and complete ID verification. Don’t worry, our team will provide you with guidelines and learning materials before your exam. You will be required to complete the exam in a specific timeframe but at your convenience!
+Apply now and earn a $150 bonus when you pass the exam, complete ID verification, submit the acceptance form and all required documents within 7 days. You must also stay active in the program for at least 3 months to qualify.
+Equal Opportunity
+All qualified applicants will receive consideration for a contractual relationship without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. At TELUS Digital AI, we are proud to offer equal opportunities and are committed to creating a diverse and inclusive community. All aspects of selection are based on applicants’ qualifications, merits, competence, and performance without regard to any characteristic related to diversity",
+4,Full-Stack Software Engineer,"About this role:
+As a Software Engineer at Coteach, you will:
+Engage directly with teachers to deeply understand their needs, form clear product hypotheses, and drive feature development through hypothesis-driven experimentation.
+Rapidly prototype scrappy solutions to validate hypotheses, and evolve successful experiments into robust, scalable, production-ready features.
+Architect and implement scalable, performant solutions that power responsive, chat-based interactions within curriculum-integrated AI tools.
+Optimize LLMs to enhance usability, accuracy, and real-world effectiveness in supporting teachers' instructional planning and differentiation.
+Work with modern tools like TypeScript, React, Postgres, Bun, and Effect, and help shape our architecture as we scale.
+What you bring:
+Experience shipping features powered by frontier models (e.g. Claude, Gemini) in real-world products: context engineering, tool design, retrieval, and evaluation.
+Strong TypeScript skills across the full stack, comfortable jumping from implementing Figma mockups to designing backend services.
+Ability to navigate engineering tradeoffs: you know when to ship a quick, scrappy prototype, and when to slow down and build thoughtfully for long-term scalability.
+User empathy and passion for building technology that tangibly improves teachers' daily experience and impacts student outcomes.
+Curiosity and a growth mindset: no specific academic qualifications or minimum years of experience required.
+Strong candidates may also have experience with:
+Serverless architectures and tools like Supabase, Vercel, or similar platforms.
+Evaluating and continuously improving AI model performance in production settings.
+Education technology, curriculum development, or direct experience collaborating with educators.
+Compensation & structure:
+Compensation is $10,000–$15,000/month, depending on experience. Due to the structure of our current funding, we can only offer contract-based (1099) roles at this time — benefits are not included. This is a remote role for US-based candidates.
+We encourage you to apply even if you don't meet every listed qualification. We know that great candidates come from a variety of backgrounds, and research shows underrepresented applicants often underestimate their readiness. If you're excited about this work, we want to hear from you.
+How to apply:
+Email
+riz.malik@teachinglab.org
+and
+peter.edmonds@teachinglab.org
+with your resume and a short video (max 2 minutes) that introduces yourself and showcases a project or experience you're proud of. We're not looking for anything fancy—feel free to record on your phone or laptop, and screen sharing is welcome if helpful.","$10,000"
+5,"AI Prompt Engineer - PART TIME, FLEXIBLE SCHEDULE","Looking for an AI Prompt Engineer OR a very knowledgeable person with AI automation and can help our company rank on Chat GPT and other major AI LLMs and search engines. PART TIME, FLEXIBLE SCHEDULE. Payout is generous and competitive according to skills. Please reach out to operations@cannontrading.com or call 1(800)454-9572 with your resume. Ask for Harry.",$35 - $50
+6,Senior Software Engineer - Agents,"About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+About the Role
+Our team creates innovative, customer-facing tools and features for
+Grok.com
+, focusing on user productivity and agent automation. We seek an experienced, adaptable software engineer who thrives in a dynamic startup environment. Ideal candidates meet these minimum requirements:
+Expertise in a compiled language like Rust, C++, or Go (Rust or C++ preferred)
+Expertise in Python
+Experience designing reliable, horizontally scalable distributed systems
+Experience in API design
+Bonus points for familiarity with:
+TypeScript and React
+gRPC
+Kubernetes
+Focus
+Designing, building, and supporting robust services and tools for agentic workflows on
+Grok.com
+Location
+Based in the Bay Area (San Francisco and Palo Alto). Candidates should be local or willing to relocate.
+Interview Process
+After applying, our team reviews your CV and Statement of Exceptional Work. If selected, you’ll proceed to:
+Technical Phone Interview
+: A 20-minute call with technical questions.
+Main Process
+(if you advance):
+2 Coding Assessments
+: In a language of your choice.
+Team Meet-and-Greet
+: Connect with the wider team.
+Note
+: The Statement of Exceptional Work is critical to your application. We aim to complete the main process within one week. No recruiters—our technical team reviews every application. Interviews are via Google Meet or in-person.
+Benefits
+Competitive cash compensation
+xAI equity
+Private health and dental insurance
+Unlimited time off (with prior approval)
+Annual Salary Range
+$180,000 - $440,000 USD
+xAI is an equal opportunity employer.
+California Consumer Privacy Act (CCPA) Notice","$180,000 - $440,000"
+7,"Lead Software Engineer, ML Backend","At Dynamo AI, our mission is to empower every organization to harness AI’s transformative potential with confidence and control. Our solutions empower customers to ensure AI safety and compliance while delivering top-tier AI innovations. We are looking for a highly talented and experienced Lead Software Engineer to lead the development of our ML services on the cloud. Join us in defining the future of AI safety and compliance!
+Responsibilities
+Lead the engineering team to design, develop, and deploy high-performance, secure, and reliable ML services adhering to industry-leading standards.
+Partner closely with the ML team to streamline and optimize the transition from experimentation to production for cutting-edge ML models and AI solutions.
+Deeply understand customer needs and industry trends in AI safety and compliance, collaborating with leadership and product managers to shape and execute technical strategies.
+Work directly with customers to deliver tailored solutions, ensuring seamless integration of our products with their AI systems.
+Establish yourself as a thought leader in the AI safety and compliance domain by providing insights and influencing the broader community and industry.
+Qualifications
+6+ years of experience in delivering and maintaining large-scale services, ensuring high reliability and performance in production environments.
+Deep knowledge of best engineering practices and a strong track record of designing and building scalable, distributed systems.
+Capability of delivering industry-leading AI inference or training systems that achieve exceptional customer satisfaction.
+A mission-driven mindset with a commitment to continuously innovate our products and solutions.
+Strong communication and collaboration skills to work effectively with cross-functional teams and stakeholders.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+8,"Staff Engineer, Software Autonomy Applications (R3166)","Founded in 2015, Shield AI is a venture-backed defense technology company with the mission of protecting service members and civilians with intelligent, autonomous systems. Its products include Hivemind Enterprise—EdgeOS, Pilot, Commander, and Forge—as well as V-BAT and Sentient Vision Systems (wide-area motion imaging software). With offices in San Diego, Dallas, Washington, D.C., Abu Dhabi (UAE), Kyiv (Ukraine), and Melbourne (Australia), Shield AI’s technology actively supports U.S. and allied operations worldwide.
+For more information, visit
+www.shield.ai.
+Follow Shield AI on
+LinkedIn,
+X
+and
+Instagram.
+The Software Applications Engineer will provide technical expertise and support to customers during the implementation and use of Shield AI enterprise software products. This role involves working closely with customers to understand their requirements and ensuring successful product integration for AI & Autonomy development.
+What you'll do:
+Become an expert user of the Hivemind enterprise software stack.
+Provide technical support and training to customers.
+Develop AI & Autonomy applications using the Shield AI enterprise software development kit.
+Assist the sales team in pre-sales activities, e.g., demos.
+Assist in post-sales deployment and integration of Shield AI enterprise software products.
+Develop and maintain technical documentation and training materials.
+Troubleshoot and resolve technical issues.
+Help customers debug software/API integration issues.
+Collaborate with the engineering team to address customer feedback and improve products.
+Visit customers on site globally to support software integration and development activities.
+Required qualifications:
+Bachelor’s degree in Engineering, Computer Science, or a related field.
+7+ years of experience of industry experience
+3+ years of experience in an integration/applications engineering role
+3+ years of experience working in a startup environment.
+Strong technical background in software engineering.
+Strong proficiency in writing modern C++ code.
+Intermediate proficiency in writing Python code.
+Excellent problem-solving and analytical skills.
+Strong communication and interpersonal skills.
+Preferred qualifications:
+Experience in the defense aviation or robotics industry.
+Experience building and running a small enterprise software applications/solutions engineering team.
+Full-time regular employee offer package: Pay within range listed + Bonus + Benefits + Equity
+Temporary employee offer package: Pay within range listed above + temporary benefits package (applicable after 60 days of employment)
+Salary compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. All offers are contingent on a cleared background and possible reference check. Military fellows and part-time employees are not eligible for benefits. Please speak to your talent acquisition representative for more information.
+###
+Shield AI is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.",
+9,ML Application Security Engineer,"At
+Dynamo AI
+, we believe that LLMs must be developed with privacy, safety, and real-world responsibility in mind. Our ML team comes from a culture of academic research driven to democratize AI advancements responsibly. By operating at the intersection of ML research and industry applications, our team empowers Fortune 500 companies’ adoption of frontier research for their next generation of LLM products. Join us if you:• Wish to work on the premier platform for private and personalized LLMs. We provide the fastest end to end solution to deploy research in the real world with our fast-paced team of ML Ph.D.’s and builders, free of Big Tech / academic bureaucracy and constraints.• Are excited at the idea of democratizing state-of-the-art research on safe and responsible AI.• Are motivated to work at a
+2023 CB Insights Top 100 AI Startup
+and see your impact on end customers in the timeframe of weeks not years.• Care about building a platform to empower fair, unbiased, and responsible development of LLMs and don’t accept the status quo of sacrificing user privacy for the sake of ML advancement.
+Responsibilities
+Work directly with customers to assess and enhance their AI/ML security posture, providing expert guidance and support.
+Design and implement architectural patterns and proof of concepts for secure SaaS-based platform deployments.
+Collaborate with cross-functional teams, including Product Managers and Engineers, to gather customer requirements and influence product direction to better solve customers security problems
+Qualifications
+Significant experience deploying and securing production AI/ML infrastructure in complex environments.
+Deep understanding of popular security posture management tools and practices.
+Strong familiarity with AI/ML concepts, LLM implementations and their security implications.
+Previous experience in security services setup or at a large SaaS security company is highly desirable.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+10,Solutions Engineering Senior Manager,"We are seeking a strategic and innovative Solutions Engineering Senior Manager to build our Sales Engineering team. Reporting directly to the Head of Growth, you will be responsible for driving technical sales strategies, enabling customers to successfully integrate our AI solutions into their environments, and ensuring the highest levels of customer satisfaction.​​
+Responsibilities
+Build and Lead Sales Engineering Team:
+Develop the structure and processes for the Sales Engineering team, including hiring, onboarding, and mentoring team members.​
+Technical Sales Leadership:
+Collaborate with the Sales team to develop and execute technical sales strategies that drive revenue growth and meet company objectives.​
+Customer Engagement:
+Engage directly with customers to understand their technical requirements, demonstrate product capabilities, and assist in solution design.​
+Product Alignment:
+Work closely with Product Management and Engineering teams to ensure that technical sales processes and approaches are aligned with the product vision and capabilities.
+Product Evangelism:
+Act as a technical evangelist for our products, showcasing their value and differentiation in the market through presentations, demos, and other means.​
+Cross-Functional Collaboration:
+Collaborate with Product Management, Engineering, and Customer Success teams to ensure alignment between customer requirements and product development.​
+Continuous Improvement:
+Identify areas for improvement in the sales process, product offerings, and customer engagement to drive continuous improvement and innovation.
+Qualifications
+Bachelor’s degree in Computer Science, Engineering, or a related field. Master’s degree preferred.​
+8+ years of experience in a technical pre-sales or sales engineering role, with at least 3 years in a leadership capacity.​
+Deep understanding and hands-on experience with AI, machine learning, and cloud computing technologies.​
+Proficiency in container technologies such as Docker and Kubernetes, with experience in deploying and managing containerized applications.​
+Proven track record of leading successful technical sales engagements and driving revenue growth.​
+Strong communication and presentation skills, with the ability to effectively convey technical concepts to non-technical audiences.​
+Experience working with cross-functional teams in a fast-paced, dynamic environment.​
+Strong leadership and team-building skills, with a focus on developing and growing a high-performing team.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+11,ML Engineer — LLM Evaluation,"At
+Dynamo AI
+, we believe that LLMs must be developed with safety, privacy, and real-world responsibility in mind. Our ML team comes from a culture of academic research driven to democratize AI advancements responsibly. By operating at the intersection of ML research and industry applications, our team empowers Fortune 500 companies’ adoption of frontier research for their next generation of LLM products. Join us if you:
+• Wish to work on the premier platform for private and personalized LLMs. We provide the fastest end to end solution to deploy research in the real world with our fast-paced team of ML Ph.D.’s and builders, free of Big Tech / academic bureaucracy and constraints.
+• Are excited at the idea of democratizing state-of-the-art research on safe and responsible AI.
+• Are motivated to work at a
+2023 CB Insights Top 100 AI Startup
+and see your impact on end customers in the timeframe of weeks not years.
+• Care about building a platform to empower fair, unbiased, and responsible development of LLMs and don’t accept the status quo of sacrificing user privacy for the sake of ML advancement.
+Responsibilities
+Own LLM evaluation processes and methods with a focus on generating benchmarks representative of real-world usage and safety vulnerabilities.
+Generate high quality synthetic data, curate labels, and conduct rigorous benchmarking.
+Deliver robust, scalable, and reproducible production code.
+Push the envelope by developing methods for benchmarking that revamps how we assess the best LLMs for harmlessness and helpfulness. Your research will directly empower our customers to more feasibly deploy safe and responsible LLMs.
+Co-author papers, patents, and presentations with our research team by integrating other members’ work with your vertical.
+Qualifications
+Domain knowledge in LLM evaluation and data curation techniques.
+Extensive experience in designing and implementing LLM benchmarking, extending previous methods. Comfortability with leading end-to-end projects.
+Adaptability and flexibility. In both the academic and startup world, a new finding in the community may necessitate an abrupt shift in focus. You must be able to learn, implement, and extend state-of-the-art research.
+Preferred: past research or projects in benchmarking LLMs.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+12,ML Engineer – LLM Safety,"At
+Dynamo AI
+, we believe that LLMs must be developed with safety, privacy, and real-world responsibility in mind. Our ML team comes from a culture of academic research driven to democratize AI advancements responsibly. By operating at the intersection of ML research and industry applications, our team empowers Fortune 500 companies’ adoption of frontier research for their next generation of LLM products.As a Machine Learning Engineer, you will design, develop, and maintain ML code for our products centered around LLM safety.Join us if you:• Wish to work on the premier platform for private and personalized LLMs. We provide the fastest end to end solution to deploy research in the real world with our fast-paced team of ML Ph.D.’s and builders, free of Big Tech / academic bureaucracy and constraints.• Are excited at the idea of democratizing state-of-the-art research on safe and responsible AI.• Are motivated to work at a
+2023 CB Insights Top 100 AI Startup
+and see your impact on end customers in the timeframe of weeks not years.• Care about building a platform to empower fair, unbiased, and responsible development of LLMs and don’t accept the status quo of sacrificing user privacy for the sake of ML advancement.
+Responsibilities
+Work at the intersection of ML and Engineering for delivering robust and scalable implementation of LLM safety techniques and evaluations.
+Perform rigorous testing of the product features and ensure seamless integrations with customers’ AI workflows.
+Push the envelope by implementing novel techniques that delivers the world’s most harmless and helpful models. Your work will directly empower our customers to more feasibly deploy safe and responsible LLMs.
+Work closely with our policy, product, and engineering teams to ship features to customers.
+Qualifications
+Deep domain knowledge in LLM safety and/or evaluation techniques.
+Extensive experience in designing, implementing, and maintaining production-ready ML code for LLMs. Past experience on integrating LLM APIs in production environments.
+Comfortability with leading end-to-end projects and collaborating with researchers and engineers.
+Adaptability and flexibility. In both the academic and startup world, a new finding in the community may necessitate an abrupt shift in focus. You must be able to learn, implement, and extend state-of-the-art research in short time-frames.
+Preferred: Past engineering experience with strong LLM knowledge.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+13,ML Engineer — LLM Privacy,"At
+Dynamo AI
+, we believe that LLMs must be developed with safety, privacy, and real-world responsibility in mind. Our ML team comes from a culture of academic research driven to democratize AI advancements responsibly. By operating at the intersection of ML research and industry applications, our team empowers Fortune 500 companies’ adoption of frontier research for their next generation of LLM products. Join us if you:
+• Wish to work on the premier platform for private and personalized LLMs. We provide the fastest end to end solution to deploy research in the real world with our fast-paced team of ML Ph.D.’s and builders, free of Big Tech / academic bureaucracy and constraints.
+• Are excited at the idea of democratizing state-of-the-art research on safe and responsible AI.
+• Are motivated to work at a
+2023 CB Insights Top 100 AI Startup
+and see your impact on end customers in the timeframe of weeks not years.
+• Care about building a platform to empower fair, unbiased, and responsible development of LLMs and don’t accept the status quo of sacrificing user privacy for the sake of ML advancement.
+Responsibilities
+Own an ML privacy vertical e.g. data leakage attacks, sensitive PII detection, and/or membership inference attacks.
+Collaborate with our engineering team to deliver real-world applications of your algorithms for our customers.
+Generate high quality synthetic training data, train LLMs, and conduct rigorous evaluation and benchmarking.
+Qualifications
+Deep domain knowledge in privacy-preserving ML.
+Practical experience in techniques to attack or defend ML models in terms of privacy.
+Extensive experience in implementing multiple different types of LLM models and architectures in the real world. Comfortability with leading end-to-end projects.
+Adaptability and flexibility. In both the academic and startup world, a new finding in the community may necessitate an abrupt shift in focus. You must be able to learn, implement, and extend state-of-the-art research.
+Preferred: previous projects or research in LLM privacy.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+14,ML Research Scientist — LLM Safety,"At
+Dynamo AI
+, we believe that LLMs must be developed with safety, privacy, and real-world responsibility in mind. Our ML team comes from a culture of academic research driven to democratize AI advancements responsibly. By operating at the intersection of ML research and industry applications, our team empowers Fortune 500 companies’ adoption of frontier research for their next generation of LLM products. Join us if you:• Care about pushing the frontier of novel research on performant, responsible, and unbiased LLMs and don’t accept the status quo of helpfulness-safety tradeoffs.• Are excited at the idea of democratizing state-of-the-art research on safe and responsible AI and motivated to work at a
+2023 CB Insights Top 100 AI Startup
+and see your impact on end customers in the timeframe of weeks not years.• Wish to work on the premier platform for compliant LLMs. We provide the fastest end to end solution to deploy research in the real world with our fast-paced team of ML Ph.D.’s and builders, free of Big Tech / academic bureaucracy and constraints.
+Responsibilities
+Spearhead an LLM research domain with a focus on safety, quality, explainability, evaluation, and/or adversarial attacks.
+Push the envelope by developing novel techniques and research that delivers the world’s most harmless and helpful models. Your research will directly empower our customers to more feasibly deploy safe and responsible LLMs.
+Co-author papers, patents, and presentations with our research team. Collaborate with our engineering, product, and sales teams to deliver state-of-the-art techniques to end customers.
+Lead research projects end-to-end, including generating high quality synthetic data, training LLMs, and conducting rigorous benchmarking.
+Deliver generalizable, scalable, and reproducible algorithms.
+Qualifications
+Deep research domain knowledge in LLM safety techniques.
+Extensive research experience in aligning, training, and/or attacking multiple different types of LLM models and architectures in the real world. Comfortability with leading end-to-end projects.
+Adaptability and flexibility. In both the academic and startup world, a new finding in the community may necessitate an abrupt shift in focus. You must be able to learn, implement, and extend state-of-the-art research.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+15,Staff Software Engineer,"About Moonhub
+Recruiting is a $70B industry that impacts millions of people’s livelihoods and Moonhub is on a mission to build the world’s first AI recruiter. We’re a team of AI researchers, software engineers, and technical recruiters. The Moonhub platform orchestrates agentic actions over a vast amount of workforce data to tackle complex workflows. Recruiters are able to collaborate with the AI to quickly analyze talent pools, find and evaluate candidates, and manage multiple pipelines.
+Moonhub’s founder, Nancy Xu, started a recruiting agency while researching AI at Stanford. We’ve raised funding from Khosla Ventures, Marc Benioff (Salesforce founder), and others.
+About the Role
+As a Fullstack Software Engineer, you will lead the design, development, and delivery of AI services and products. You will tackle ambiguous problems in recruiting with even more ambiguous data, software, and AI solutions. You will collaborate closely with product, design, and recruiting to prototype innovative approaches and architect scalable systems. Your technical expertise and leadership ability will contribute to the success of the team and the product.
+Requirements
+6+ years software development experience at a venture-backed startup or top technology company.2+ year operating in a technical lead capacity.Ability to understand complex domains and product requirements and translate into high quality product and technical solutions.Fluency in building backend and full-stack web applications in Python and ReactExcellent technical communication and ability to collaborate with partners of all levels and functions.
+Nice to haves
+Experience in mentoring fellow engineers through pairing, code review, and giving actionable feedback.Experience building products and systems that leverage ML, AI, and LLMsExperience in startup environment (founder or early engineer)Experience working in data intensive applicationsExperience with search",
+16,ML Research Engineer — LLM Safety,"At
+Dynamo AI
+, we believe that LLMs must be developed with safety, privacy, and real-world responsibility in mind. Our ML team comes from a culture of academic research driven to democratize AI advancements responsibly. By operating at the intersection of ML research and industry applications, our team empowers Fortune 500 companies’ adoption of frontier research for their next generation of LLM products. Join us if you:
+• Wish to work on the premier platform for private and personalized LLMs. We provide the fastest end to end solution to deploy research in the real world with our fast-paced team of ML Ph.D.’s and builders, free of Big Tech / academic bureaucracy and constraints.
+• Are excited at the idea of democratizing state-of-the-art research on safe and responsible AI.
+• Are motivated to work at a
+2023 CB Insights Top 100 AI Startup
+and see your impact on end customers in the timeframe of weeks not years.
+• Care about building a platform to empower fair, unbiased, and responsible development of LLMs and don’t accept the status quo of sacrificing user privacy for the sake of ML advancement.
+Responsibilities
+Own an LLM vertical with a focus on a specific safety domain, technique, or use case (either from defense or red-team attack perspective)
+Generate high quality synthetic data, train LLMs, and conduct rigorous benchmarking.
+Deliver robust, scalable, and reproducible production code.
+Push the envelope by developing novel techniques and research that delivers the world’s most harmless and helpful models. Your research will directly empower our customers to more feasibly deploy safe and responsible LLMs.
+Co-author papers, patents, and presentations with our research team by integrating other members’ work with your vertical.
+Qualifications
+Deep domain knowledge in LLM safety techniques.
+Extensive experience in designing, training, and implementing multiple different types of LLM models and architectures in the real world. Comfortability with leading end-to-end projects.
+Adaptability and flexibility. In both the academic and startup world, a new finding in the community may necessitate an abrupt shift in focus. You must be able to learn, implement, and extend state-of-the-art research.
+Preferred: past research or projects in either attacking or defending LLMs.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+17,Technical Product Manager,"As the
+Technical Product Manager
+for the Core Platform at Dynamo.ai, you will be responsible for steering the vision, strategy, and execution of our platform's infrastructure and deployment capabilities. This is a hands-on, high-impact role that requires deep technical expertise, a strong understanding of platform engineering, and excellent stakeholder management skills.You will collaborate closely with engineering, compliance, and customer success teams to ensure that Dynamo.ai’s platform meets customer requirements, handles demanding performance metrics, and maintains industry-leading standards of security, scalability, and usability.
+Responsibilities
+Below are the Responsibilities for the Technical Product Manager Role:
+1. Platform Deployment as a PaaS (Platform as a Service)
+Define and prioritize technical requirements to ensure the
+Dynamo.ai
+product can be deployed seamlessly in customer environments (e.g., VPCs, on-premises physical servers) as a scalable PaaS offering.
+Collaborate with engineering teams to optimize Kubernetes-based deployment pipelines to support high throughput and ultra-low latency.
+Work with DevOps and infrastructure engineers to enhance platform stability and ensure robust CI/CD practices for customer environments.
+2. Security and Compliance
+Ensure the platform aligns with industry standards such as SOC2, ISO 27001, and customer-specific compliance needs.
+Drive the implementation of robust Role-Based Access Control (RBAC) systems, encryption protocols, and other security features.
+Partner with security teams to develop and execute audits, penetration testing, and ongoing compliance validation.
+3. Documentation and Self-Installation Enablement
+Lead the creation of detailed, user-friendly documentation and installation guides to empower customers to independently deploy and manage
+Dynamo.ai
+’s platform.
+Collect feedback from customers to continuously improve the self-installation process and reduce dependency on
+Dynamo.ai
+’s technical support.
+4. SaaS Platform Scalability and Robustness
+Oversee initiatives to ensure the SaaS offering can scale efficiently to handle large numbers of customer users without compromising performance.
+Identify potential bottlenecks in the SaaS architecture and collaborate with engineers to address them proactively.
+5. System Validation and Error Messaging
+Define and implement validation testing strategies to ensure the platform is resilient when deployed in diverse customer environments.
+Work with engineering teams to create clear, actionable error messages that improve troubleshooting and system reliability.
+Qualifications
+Below are the Qualifications for the Technical Product Manager Role:
+Experience:
+3+ years
+of product management experience in a technical role, preferably in platform engineering, infrastructure, or DevOps-oriented environments.
+Experience managing PaaS products deployed in both cloud and on-prem environments.
+Proven track record of driving large-scale deployments with performance and latency requirements.
+Technical Expertise
+:
+Strong understanding of Kubernetes, container orchestration, and microservices architecture.
+Familiarity with cloud infrastructure (AWS, Azure, GCP) and on-premises deployment models.
+Knowledge of security and compliance frameworks (e.g., SOC2, ISO 27001, RBAC).
+Experience with CI/CD pipelines, observability tools, and system validation testing.
+Soft Skills
+:
+Excellent communication skills with the ability to translate technical details into business value for stakeholders.
+Strong problem-solving skills with a customer-first mindset.
+Proven ability to collaborate cross-functionally with engineering, security, and customer success teams.
+Education
+:
+Bachelor’s degree in Computer Science, Engineering, or a related technical field (or equivalent experience).
+Advanced degrees or certifications in cloud computing, product management, or security are a plus.
+Preferred Qualifications:
+Experience working with high-throughput systems and real-time data processing.
+Familiarity with AI/ML platforms and their unique deployment challenges.
+Prior experience in customer-facing roles, understanding deployment challenges in enterprise environments.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+18,Study Participant – On-Site Research Study,"Please Note: This is a one-time paid voluntary study.
+LXT is an emerging leader in AI training data to power intelligent technology for global organizations. In partnership with an international network of contributors, LXT collects and annotates data across multiple modalities with the speed, scale and agility required by the enterprise.
+We are seeking individuals to participate in a one-time, 2-hour, on-site research study in San Diego, CA. As a thank you for completing the study you will receive $130. As a participant, you will contribute to important research by performing a series of tasks while data is being collected. The project aims to collect video data and body scans to improve devices such as smartphones and tablets improving user experience. Please complete the form below if you are interested in participating.
+Key responsibilities:
+Arrive on-site at the scheduled time and be greeted by a study team member.
+Receive a high-level overview of the study’s purpose and procedures.
+Review and sign an informed consent form.
+Undergo a series of body measurements and answer in-take questions.
+Perform various movements such as rotating and balancing on one leg, bending your knees, walking, and about 30 minutes of continuous activity.
+Be comfortable wearing gym clothes (you bring) and two sets of athletic clothes that the study will provide.
+Overall, the study will take 2 hours and participation is voluntary.
+Requirements
+Be able to attend the study location on-site in San Diego, CA.
+Be able to perform moderate physical activities, including light stretching.
+Be comfortable with changing clothing and repeating tasks as instructed.
+Be comfortable with physical contact.
+Moderators will need to touch your head, face, neck, shoulders, arms, waist, hips, and legs to take accurate measurements.
+Compensation
+Participants will receive $130 electronically for completing the two-hour study. Please note that fees may be deducted depending on the chosen payment method.
+*Please note you will receive an email with a link to a form after you submit your application. Please ensure you complete the form to be included in the study.",
+19,Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics)- 2026 Start (PhD),"ResponsibilitiesTeam Introduction:Join the E-commerce Global Supply Chain and Logistics team at TikTok! We're enhancing the shopping experience and reducing logistics operational costs. We are seeking brilliant and motivated graduate software engineers, who are eager to apply their knowledge in machine learning (ML), operations research (OR), data mining, and statistical inference to real-world challenges.We are looking for talented individuals to join our team in 2026. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with ByteDanceSuccessful candidates must be able to commit to an onboarding date by end of year 2026.Please state your availability and graduation date clearly in your resume. Applications will be reviewed on a rolling basis - we encourage you to apply early.Responsibilities:1. Responsible for the development of deep learning and operations research models and related intelligent systems for the supply chain and logistics of the global E-Commerce business.2. Utilize e-commerce big data and deep learning models to predict end-to-end estimated time of arrival (ETA), and some logistics events such as failed delivery, delivered but not received to enhance the user logistics experience.  Build logistics network knowledge graphs and predict the spatio-temporal trajectory sequence of express packages through deep learning, statistical inference and other algorithmic methods. Use NLP and LLM algorithms to handle address problems such as address verification and address suggestion.3. Utilize time series forecasting techniques to predict sales at different granularities and horizons, such as warehouse-level manpower forecasting, inventory-level demand forecasting etc. We need strong machine learning and deep learning skills to detect important factors and model the relationship between the future and history. 4. Participate in the growth of e-commerce merchants/creators, responsible for the growth algorithm of e-commerce merchants/creators, including potential merchants/creators mining algorithm, tiering algorithm, out-reach algorithm, growth algorithm, etc. Work closely with e-commerce merchants/creators related operations and product teams to achieve the high-quality growth goal of e-commerce merchants/creators.5. Combined with massive e-commerce information, through data mining and machine learning, predict the performance of products in traffic/conversion, improve the efficiency of product operation strategy and pricing/subsidy strategy, and assist in optimizing traffic distribution, to satisfy the requirements of product growth, cost optimization and some other scenarios.QualificationsMinimum Qualifications:- Master's or Phd degree in fields such as artificial intelligence, computer science, operations research, automation, statistics, mathematics, or related disciplines, with experience in data mining and deep learning. - Proficient in machine learning and statistics, familiar with the principles and model structures of common machine learning and deep learning algorithms for classification, regression, and clustering, with practical application experience.- Proficient in programming languages such as Python/Java, possessing excellent coding abilities, and familiar with at least one common machine learning/deep learning framework (TensorFlow/PyTorch etc.).Demonstrates a spirit of exploration, outstanding data analysis capabilities, strong initiative, and excellent teamwork and communication skills.Preferred Qualifications:- Demonstrated software engineering experience from previous internship, work experience, coding competitions, or publications- Internship experience or research experience, especially in e-commerce, supply chain, logistics, and transportation.- Published papers at conferences such as KDD, NeurIPS, WWW, SIGIR, WSDM, ICML, IJCAI, AAAI, RecSys, or having participated in data mining/machine learning competitions.Job Information【For Pay Transparency】Compensation Description (Annually)The base salary range for this position in the selected city is $137750 - $237500 annually.​Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​For Los Angeles County (unincorporated) Candidates:​Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​3. Exercising sound judgment.​About UsFounded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​Why Join ByteDanceInspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​Diversity &amp; Inclusion​ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​Reasonable AccommodationByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request​","$137,750 - $237,500"
+20,Head of AI Solutions,"As the Head of AI Solutions at Dynamo, you will play a major leadership role and act as a face of Dynamo to our engaged enterprise customers. You will connect the dots between enterprise needs and Dynamo’s AI solutions and need to think creatively in high stake scenarios to maximize ROI for Dynamo’s customers.
+Responsibilities
+Develop strategies to most effectively address enterprise customer needs by mapping Dynamo’s capabilities to customer pain points.
+Prepare presentations and materials that effectively convey status updates, engagement timelines, and overall ROI for enterprise customers.
+Identify and quantify pain points and needs in Dynamo’s customer’s AI development workflows
+Execute plans for successfully meeting customer deliverables and maximizing ROI for Dynamo’s customers by coordinating closely with Dynamo’s ML, engineering, policy, and product teams.
+Qualifications
+Strong presentation, writing, and communication skills
+Actively looking to learn about the workflows of ML, product, and engineering teammates to better coordinate with these teams
+Experience with managing teams, projects, or products, which required scoping projects, coordinating deliverables, and communicating requirements to teammates.
+Experience with machine learning topics (e.g. Huggingface, Llamaindex, LangChain, PyTorch, Neural networks, LLMs) is a plus
+Experience leading ML or engineering teams in financial services is a plus
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+21,Research Scientist in Quantum Chemistry and Machine Learning,"ResponsibilitiesAbout the team:Our team at ByteDance Research has been focusing on developing quantum computational chemistry and machine learning tools to help us better understand some fundamental science problems, such as the mechanism of catalyst. We are looking for outstanding researchers to join our team and conduct cutting-edge research in AI for Chemistry.Responsibilities1. Carry out interdisciplinary research in quantum computational chemistry (such as Post Hartree-Fock method, quantum embedding method) and machine learning(such as Neural Network QMC);2. Perform theoretical analysis on machine-learning-based quantum chemical models;3. Conduct large-scale quantum chemical simulations (such as MPI, GPU acceleration) and verify the correctness and practicability of proposed models.QualificationsMinimum Qualifications:1. Researchers or PhD graduates in physics, chemistry, mathematics, machine learning and related fields;2. Research experience in quantum chemistry, machine learning or related fields;3. Strong mathematical background and solid programming skills;Preferred Qualifications:1. Machine learning background2. Strong publication records in top conferences or journalsJob Information【For Pay Transparency】Compensation Description (Annually)The base salary range for this position in the selected city is $145000 - $355000 annually.​Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​For Los Angeles County (unincorporated) Candidates:​Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​3. Exercising sound judgment.​About UsFounded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​Why Join ByteDanceInspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​Diversity &amp; Inclusion​ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​Reasonable AccommodationByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request​","$145,000 - $355,000"
+22,Senior Accountant,"Dynamo AI is hiring a Senior Accountant to manage our day-to-day financial operations and ensure accuracy, compliance, and efficiency throughout the business. This role is crucial in maintaining financial health, working interdepartmentally to provide strategic insights to support our continued growth and success. You will report directly to the VP of Operations and collaborate closely with cross-functional teams.
+Responsibilities
+Manage all accounting operations including Billing, A/R, A/P, GL, Cost Accounting, Inventory Accounting, and Revenue Recognition
+Support cost-efficiency objectives throughout the organization, collaborating closely with team leads to improve observability and develop strategies for optimizations
+Prepare and publish timely monthly financial statements
+Coordinate the preparation of local, state, and federal government reporting requirements and tax filings
+Research technical accounting issues for compliance
+Support month-end and year-end close process
+Ensure quality control over financial transactions and financial reporting
+Develop and document business processes and accounting policies to maintain and strengthen internal controls
+Support budgeting and forecasting activities
+Qualifications
+Bachelor’s degree in Accounting or Finance; CPA certification preferred
+Proven experience (5+ years) as a Senior Accountant, Accounting Supervisor, or similar role, preferably in a tech industry setting
+Thorough knowledge of GAAP and financial reporting practices.
+Experience with general ledger functions and the month-end/year-end close process
+Hands-on experience with accounting software (e.g., QuickBooks, SAP)
+Advanced Google Sheets proficiency
+Prior experience in managing audits and interacting with external auditors.
+Dynamo AI is committed to maintaining compliance with all applicable local and state laws regarding job listings and salary transparency. This includes adhering to specific regulations that mandate the disclosure of salary ranges in job postings or upon request during the hiring process. We strive to ensure our practices promote fairness, equity, and transparency for all candidates.
+Salary for this position may vary based on several factors, including the candidate's experience, expertise, and the geographic location of the role. Compensation is determined to ensure competitiveness and equity, reflecting the cost of living in different regions and the specific skills and qualifications of the candidate.",
+23,Senior Data Scientist,"General information
+Requisition #
+                                            
+
+                                                                                            R61431
+                                                                                    
+
+
+
+                                                Locations
+                                            
+
+                                                                                            USA-FL-Doral
+                                                                                    
+
+
+
+                                                Posting Date
+                                            
+
+                                                                                            06/26/2025
+                                                                                    
+
+
+
+                                                Security Clearance Required
+                                            
+
+                                                                                            Interim Secret
+                                                                                    
+
+
+
+                                                Remote Type
+                                            
+
+                                                                                            Onsite
+                                                                                    
+
+
+
+                                                Time Type
+                                            
+
+                                                                                            Full time
+Description & Requirements
+Shape the future of defense with ManTech! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we’ve been a trusted partner to the Department of Defense, delivering cutting-edge projects that make a real impact. Dive into exciting opportunities in Cybersecurity, IT, Data Analytics and more. Propel your career forward and be part of something extraordinary. Your journey starts now—protect and innovate with ManTech!
+ManTech seeks a motivated, career and customer-oriented
+Senior
+Data Scientist
+to join our team in Doral, FL.
+Responsibilities include but are not limited to:
+Develop and implement data strategies and frameworks
+Identify data requirements, establish comprehensive data governance policies, and ensure data quality and integrity across the organization
+Design and implement data collection, storage, and retrieval processes to optimize data management and accessibility and conduct complex data analysis and modeling to derive valuable insights and recommendations for program management and decision-making
+Use advanced statistical techniques, data mining, and machine learning algorithms to uncover patterns, trends, and correlations within the data
+Provide actionable insights that drive strategic initiatives and enhance overall program performance. Create advanced reports, dashboards, and visualizations to effectively communicate program performance, KPIs, and trends. Leverage data visualization tools, such as Tableau or Power BI, to present complex data in a clear and concise manner, enabling stakeholders to make informed decisions
+Contribute to the development and implementation of data-driven initiatives, stay up-to-date with the latest advancements in data analytics, emerging technologies, and industry best practices, and ensure the organization remains at the forefront of data management and analysis
+Provide technical expertise in data analytics. Provide direction and mentorship to subordinate staff
+Minimum Qualifications:
+Bachelor’s degree in relevant field and a minimum of 9 years of relevant experience OR a Master’s degree and 7 years of experience OR PhD and 5 years of experience.
+High School diploma and 4 years of additional experience or Associate's Degree and 2 years of additional experience may be exchanged in lieu of a required Bachelor's degree
+Experience in data science, data analysis, or a related field, with a proven track record of successfully developing and implementing data-driven solutions.
+Strong understanding of statistical modeling, machine learning algorithms, and data mining techniques. Proficiency in data analysis tools and languages (e.g., Python with pandas, scikit-learn, R, SQL). Experience with data visualization tools (e.g., Tableau, Power BI) and knowledge of data warehousing and data lake concepts.
+Experience with Big Data technologies (e.g., Hadoop, Spark).
+Experience in developing and implementing data strategies and frameworks. Understanding of data governance principles and best practices. Ability to identify data requirements and ensure data quality and integrity. Experience with data collection, storage, and retrieval processes. Strong analytical and problem-solving skills, with the ability to extract insights from complex data sets. Ability to identify patterns, trends, and correlations in data. Ability to translate data insights into actionable recommendations.
+DoD 8570.01-M IAT Level II certification.
+Preferred Qualifications:
+PhD, Master’s degree OR Bachelor’s degree in Data Science, Information Technology, Cybersecurity, Computer Science, or related field.
+Experience supporting DoD programs and with cloud-based technologies, Risk Management Framework, and Zero Trust Architecture.
+Knowledge of data security and privacy regulations. Experience with data storytelling and presentation skills.
+Experience with advanced analytics techniques (e.g., deep learning, natural language processing). Specialized skills including cloud-based data platforms (e.g., AWS, Azure, GCP). Relevant certifications in data science or data analytics (e.g., Certified Analytics Professional (CAP)).ITIL certification.
+Experience at a DoD Combatant Command (e.g., SOUTHCOM, NORTHCOM, CENTCOM, CYBERCOM, INDOPACOM, EUCOM, AFRICOM, STRATCOM, TRANSCOM, SOCOM, SPACECOM) or a component is desired.
+Clearance Requirements:
+Must possess an interim Secret clearance with the ability to obtain a Secret clearance
+Physical Requirements:
+The person in this position must be able to remain in a stationary position 50% of the time. Occasionally move about inside the office to access file cabinets, office machinery, or to communicate with co-workers, management, and customers, via email, phone, and or virtual communication, which may involve delivering presentations.
+ManTech International Corporation considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.
+If you need a reasonable accommodation to apply for a position with ManTech, please email us at
+careers@mantech.com
+and provide your name and contact information.",
+24,Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI) - 2026 Start (PhD),"ResponsibilitiesTeam Introduction:Our team is responsible for developing next-generation chatbot and machine translation solutions to improve the TikTok Shopping experience across the world. We are currently looking for talented engineers that have a deep understanding of natural language processing and machine learning, especially ones with solid skills and experience of large language models, machine translation, and conversational AI.We are looking for talented individuals to join our team in 2026. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with ByteDanceSuccessful candidates must be able to commit to an onboarding date by end of year 2026.Please state your availability and graduation date clearly in your resume. Applications will be reviewed on a rolling basis - we encourage you to apply early.Responsibilities:- You will be responsible for developing and optimizing the intelligent customer service of TikTok shopping. This role will work closely with our product and operation teams to understand the intentions of our users, design solutions of experience excellence, and convey these solutions to our users conversationally, with the support of cutting-edge LLMs technology. You will have the chance to develop NLP models (like text classification, machine reading, summarization) and prediction models (like question prediction and chatbot action prediction) to achieve the above goals.- You will be responsible for developing and optimizing the machine translation service of TikTok shopping to better support cross-region product listing, buyer-seller communication, and commenting. You will have the chance to develop machine translation models for the conversational environment and text generation models from multi-modality inputs.- You will be responsible for developing and optimizing the multi-modal AIGC model for product copywriting, including product title, selling points, description and live broadcast script creation etc. You will have the chance to apply cutting edge AIGC models to save human effort and improve business performance.QualificationsMinimum Qualifications:- Currently pursuing PhD degree with majors in computer science, computer engineering, statistics, applied mathematics, data science or other related disciplines.- Large language models, natural language generation, machine translation, question answering, machine reading, information extraction, text mining and classification etc.- Work experience in e-commerce or the Internet industry is preferred.- Practical experience in NLP (dialogue system, machine translation, nlp-related projects in IR/Ads system, etc.) are preferred.- Familiar with at least one computer programming language, including but not limited to go/python/Java.- Experience of big data development, including but not limited to hive, spark- Candidates who have published high-quality papers are preferred, including but not limited to ACL, EMNLP, COLING, AAAI, IEEE TASLP, etc.Job Information【For Pay Transparency】Compensation Description (Annually)The base salary range for this position in the selected city is $137750 - $237500 annually.​Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​For Los Angeles County (unincorporated) Candidates:​Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​3. Exercising sound judgment.​About UsFounded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​Why Join ByteDanceInspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​Diversity &amp; Inclusion​ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​Reasonable AccommodationByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request​","$137,750 - $237,500"
+25,"Software Engineer, Systems ML - Frameworks / Compilers / Kernels","In this role, you will be a member of the MTIA (Meta Training &amp; Inference Accelerator) Software team and part of the bigger industry-leading PyTorch AI framework organization. MTIA Software Team has been developing a comprehensive AI Compiler strategy that delivers a highly flexible platform to train &amp; serve new DL/ML model architectures, combined with auto-tuned high performance for production environments across specialized hardware architectures. The compiler stack, DL graph optimizations, and kernel authoring for specific hardware, directly impacts performance and deployment velocity of both AI training and inference platforms at Meta.You will be working on one of the core areas such as PyTorch framework components, AI compiler and runtime, high-performance kernels and tooling to accelerate machine learning workloads on the current &amp; next generation of MTIA AI hardware platforms. You will work closely with AI researchers to analyze deep learning models and lower them efficiently on MTIA hardware. You will also partner with hardware design teams to develop compiler optimizations for high performance. You will apply software development best practices to design features, optimization, and performance tuning techniques. You will gain valuable experience in developing machine learning compiler frameworks and will help in driving next generation hardware software codesign for AI domain specific problems.Software Engineer, Systems ML - Frameworks / Compilers / Kernels ResponsibilitiesDevelopment of SW stack with one of the following core focus areas: AI frameworks, compiler stack, high performance kernel development and acceleration onto next generation of hardware architectures.Contribute to the development of the industry-leading PyTorch AI framework core compilers to support new state of the art inference and training AI hardware  accelerators and optimize their performance.Analyze deep learning networks, develop &amp; implement compiler optimization algorithms.Collaborating with AI research scientists to accelerate the next generation of deep learning models such as Recommendation systems, Generative AI, Computer vision, NLP etc.Performance tuning and optimizations of deep learning framework &amp; software components.Minimum QualificationsProven C/C++ programming skillsExperience in AI framework development or accelerating deep learning models on hardware architectures.Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.Preferred QualificationsA Bachelor's degree in Computer Science, Computer Engineering, relevant technical field and 7+ years of experience in AI framework development or accelerating deep learning models on hardware architectures OR a Master's degree in Computer Science, Computer Engineering, relevant technical field and 4+ years of experience in AI framework development or accelerating deep learning models on hardware architectures OR a PhD in Computer Science Computer Engineering, or relevant technical field and 3+ years of experience in AI framework development or accelerating deep learning models on hardware architectures.Knowledge of GPU, CPU, or AI hardware accelerator architectures.Experience working with frameworks like PyTorch, Caffe2, TensorFlow, ONNX, TensorRTOR AI high performance kernels: Experience with CUDA programming, OpenMP / OpenCL programming or AI hardware accelerator kernel programming. Experience in accelerating libraries on AI hardware, similar to cuBLAS, cuDNN, CUTLASS, HIP, ROCm etc.OR AI Compiler: Experience with compiler optimizations such as loop optimizations, vectorization, parallelization, hardware specific optimizations such as SIMD. Experience with MLIR, LLVM, IREE, XLA, TVM, Halide is a plus.OR AI frameworks: Experience in developing training and inference framework components. Experience in system performance optimizations such as runtime analysis of latency, memory bandwidth, I/O access, compute utilization analysis and associated tooling development. For those who live in or expect to work from California if hired for this position, please click here for additional information. About Meta Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics. $70.67/hour to $208,000/year + bonus + equity + benefitsIndividual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.  Equal Employment Opportunity  Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice here.  Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, fill out the Accommodations request form.","$141,340 - $208,000"
