@@ -30,15 +30,15 @@ Links:
     ```
 2. Navigate to downloaded folder and create new venv
     ```
-    python -m venv s1-env
+    python -m venv s2-env
     ```
 3. Activate venv
     ```
     # mac/linux
-    source s1-env/bin/activate
+    source s2-env/bin/activate
 
     # windows
-    .\s1-env\Scripts\activate.bat
+    .\s2-env\Scripts\activate.bat
     ```
 4. Install dependencies
     ```
