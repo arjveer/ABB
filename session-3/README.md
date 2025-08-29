@@ -5,6 +5,8 @@ Links:
 - [Example 2: RAG with LlamaIndex](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/blob/main/session-3/example_2-rag_with_llamaindex.ipynb)
 - [Example 3: PDF Parsing with Docling)](https://github.com/ShawhinT/AI-Builders-Bootcamp-6/blob/main/session-3/example_3-pdf_parsing_docling.ipynb)
 
+## How to run the examples
+
 ### uv
 
 1. Clone this repo
@@ -20,7 +22,7 @@ Links:
     jupyter lab
     ```
 
-## How to run the examples
+### Base Python/Pip
 
 1. Clone this repo
 2. Navigate to downloaded folder and create new venv
