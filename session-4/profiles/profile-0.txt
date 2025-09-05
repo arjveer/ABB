@@ -1,0 +1,73 @@
+Turn AI Noise into ROI — PhD Data Scientist for SMB Founders and CXOs
+
+You don’t need more hype. You need clear use cases, fast prototypes, and measurable outcomes. I help leaders cut through the noise, identify where AI actually fits, and build lean solutions that drive real business value.
+
+Common challenges I solve:
+- Unclear AI strategy or where to start
+- Manual, repetitive workflows slowing teams down
+- Messy data that blocks insights and automation
+- “Black box” models that don’t align with business goals
+- Pilots that never make it to production
+- Fear of wasting time and budget on the wrong use case
+
+How I deliver value:
+I partner with you from strategy to execution. In a focused discovery, we map high-ROI use cases, prioritize by impact and feasibility, and align on success metrics. Then I build working prototypes quickly, validate with your real data, and iterate until we have a solution your team actually uses. My Physics PhD training means I’m rigorous about causality (not just correlation), clear about assumptions, and obsessive about validating results. You get transparent communication, clean code you own, and a pragmatic plan to scale.
+
+What I do:
+Strategy and Advisory
+- ✅ AI use-case discovery and ROI assessment
+- ✅ Project feasibility, scoping, and roadmapping
+- ✅ Code and architecture reviews; model risk and bias checks
+- ✅ Executive-ready explanations of complex topics
+
+Build and Implement
+- ✅ LLM integrations (OpenAI), retrieval-augmented generation (RAG), internal chatbots
+- ✅ Automation of data entry, document processing, reporting, and outreach
+- ✅ Data pipelines and preparation: ingestion, cleaning, transformation
+- ✅ Predictive modeling and forecasting tailored to business KPIs
+- ✅ Causal analysis and experiment design to inform decisions
+
+Measure and Scale
+- ✅ Dashboards and decision support tools
+- ✅ Model monitoring and drift detection post-deployment
+- ✅ Performance tuning, cost optimization, and reliability hardening
+- ✅ Knowledge transfer, documentation, and team enablement
+
+Why work with me:
+- PhD in Physics (UT Dallas) with 7+ years in data science and project leadership
+- Cross-industry experience: biometric research, credit risk, medicine, human performance, automotive, marketing, social media, and content analytics
+- End-to-end delivery: from idea → prototype → production, with clear milestones
+- Business-first approach: I tie every model and automation to a measurable outcome
+
+Tools and stack:
+Python, SQL, Pandas/NumPy, scikit-learn, PyTorch, OpenAI API, LangChain, vector databases, REST/GraphQL APIs, Streamlit/FastAPI, Docker, Git. Comfortable integrating with your existing tools and data sources.
+
+Examples of outcomes I help create:
+- Reduce manual reporting and data entry by 50–80% with automation
+- Give teams on-demand answers over internal documents via secure AI assistants
+- Turn messy data into clean pipelines and dashboards that inform decisions
+- Build forecasting and scoring models that drive revenue and reduce risk
+- Design experiments to understand what truly moves your metrics
+
+How we’ll work:
+- Short discovery to clarify goals, data sources, constraints, and success metrics
+- Written scope with timelines, deliverables, and a sensible proof-of-concept first
+- Iterative build with frequent check-ins and Loom walkthroughs
+- Handover with documentation, training, and post-launch support options
+
+Not a good fit if:
+- You’re looking for the cheapest bid or a “just make it work” black box
+- There’s no clear business outcome or owner for the project
+
+Great fit if:
+- You want pragmatic guidance and fast, functional prototypes
+- You value clear communication, rigorous thinking, and measurable impact
+- You want clean, modular solutions your team can own and scale
+
+Ready to move from idea to impact? Message me with:
+1) Your goal or use case
+2) The data you have (sources, formats)
+3) The decision or workflow you want to improve
+4) Timeline and success criteria
+
+I’ll reply with next steps and a right-sized plan to get you results quickly.
