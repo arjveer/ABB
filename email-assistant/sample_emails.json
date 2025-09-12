@@ -1,0 +1,102 @@
+[
+  {
+    "id": "email-001",
+    "subject": "URGENT: Project deadline tomorrow",
+    "sender": "boss@company.com",
+    "recipient": "you@company.com",
+    "body": "Hi, we need to finish the quarterly report by tomorrow. This is critical for the board meeting. Please prioritize this task and let me know if you need any resources.",
+    "timestamp": "2024-01-15T09:30:00",
+    "is_read": false,
+    "is_important": true
+  },
+  {
+    "id": "email-002",
+    "subject": "Happy Birthday!",
+    "sender": "mom@family.com",
+    "recipient": "you@personal.com",
+    "body": "Happy birthday, sweetie! Hope you have a wonderful day. We're so proud of you. Love, Mom and Dad",
+    "timestamp": "2024-01-15T08:00:00",
+    "is_read": false,
+    "is_important": false
+  },
+  {
+    "id": "email-003",
+    "subject": "Your order has been shipped",
+    "sender": "noreply@amazon.com",
+    "recipient": "you@personal.com",
+    "body": "Your order #12345 has been shipped and will arrive tomorrow. Track your package here: https://amazon.com/track/12345",
+    "timestamp": "2024-01-15T07:45:00",
+    "is_read": true,
+    "is_important": false
+  },
+  {
+    "id": "email-004",
+    "subject": "Meeting invitation: Weekly standup",
+    "sender": "calendar@company.com",
+    "recipient": "you@company.com",
+    "body": "You have been invited to a meeting: Weekly standup on Monday at 9 AM. Location: Conference Room A. Please confirm your attendance.",
+    "timestamp": "2024-01-15T07:30:00",
+    "is_read": false,
+    "is_important": false
+  },
+  {
+    "id": "email-005",
+    "subject": "Your bank statement is ready",
+    "sender": "statements@bank.com",
+    "recipient": "you@personal.com",
+    "body": "Your monthly bank statement is now available. Please log in to view your account summary and transaction history.",
+    "timestamp": "2024-01-15T06:00:00",
+    "is_read": false,
+    "is_important": true
+  },
+  {
+    "id": "email-006",
+    "subject": "50% OFF - Limited Time Offer!",
+    "sender": "deals@store.com",
+    "recipient": "you@personal.com",
+    "body": "Don't miss out on our biggest sale of the year! Get 50% off everything in our store. Use code SAVE50 at checkout. Valid until Sunday.",
+    "timestamp": "2024-01-15T05:30:00",
+    "is_read": false,
+    "is_important": false
+  },
+  {
+    "id": "email-007",
+    "subject": "LinkedIn: You have 3 new connection requests",
+    "sender": "notifications@linkedin.com",
+    "recipient": "you@personal.com",
+    "body": "You have 3 new connection requests waiting for your response. View them in your LinkedIn inbox.",
+    "timestamp": "2024-01-15T04:15:00",
+    "is_read": true,
+    "is_important": false
+  },
+  {
+    "id": "email-008",
+    "subject": "Flight confirmation: NYC to LAX",
+    "sender": "bookings@airline.com",
+    "recipient": "you@personal.com",
+    "body": "Your flight AA1234 from NYC to LAX on January 20th is confirmed. Check-in opens 24 hours before departure.",
+    "timestamp": "2024-01-15T03:45:00",
+    "is_read": false,
+    "is_important": true
+  },
+  {
+    "id": "email-009",
+    "subject": "Doctor's appointment reminder",
+    "sender": "appointments@clinic.com",
+    "recipient": "you@personal.com",
+    "body": "Reminder: You have a doctor's appointment tomorrow at 2 PM with Dr. Smith. Please arrive 15 minutes early.",
+    "timestamp": "2024-01-15T02:30:00",
+    "is_read": false,
+    "is_important": true
+  },
+  {
+    "id": "email-010",
+    "subject": "Course enrollment confirmation",
+    "sender": "enrollment@university.com",
+    "recipient": "you@personal.com",
+    "body": "You have successfully enrolled in 'Advanced Python Programming' course. Classes start next Monday. Course materials will be available in your student portal.",
+    "timestamp": "2024-01-15T01:15:00",
+    "is_read": true,
+    "is_important": false
+  }
+]
